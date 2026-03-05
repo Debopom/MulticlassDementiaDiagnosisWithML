@@ -1,0 +1,6 @@
+/data/*
+/utils/*
+/preprocessing/*
+*.py
+*.ipynb
+*.env
