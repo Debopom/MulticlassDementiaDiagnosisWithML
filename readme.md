@@ -30,7 +30,16 @@ Graph-based analysis was used to explore structural relationships among clinical
 This study utilizes the **Open Access Series of Imaging Studies (OASIS-2)** dataset, which contains clinical and demographic information related Alzheimer’s disease. Dataset citation is as follows:
 
 ```bibtex
-Open Access Series of Imaging Studies (OASIS): Longitudinal MRI Data in Nondemented and Demented Older Adults. Marcus, DS, Fotenos, AF, Csernansky, JG, Morris, JC, Buckner, RL, 2010. Journal of Cognitive Neuroscience, 22, 2677-2684. doi: 10.1162/jocn.2009.21407
+@article{marcus2010open,
+  title={Open access series of imaging studies: longitudinal MRI data in nondemented and demented older adults},
+  author={Marcus, Daniel S and Fotenos, Anthony F and Csernansky, John G and Morris, John C and Buckner, Randy L},
+  journal={Journal of cognitive neuroscience},
+  volume={22},
+  number={12},
+  pages={2677--2684},
+  year={2010},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
 ```
 Download the data with:
 ```
